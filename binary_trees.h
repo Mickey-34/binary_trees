@@ -6,7 +6,8 @@
  * struct binary_tree_s - Binary tree node
  *
  * @n: Integer stored in the node
- * @mimi: Pointer to the parent node
+ * @parent: Pointer to the parent node
+ * @mimi: This is Mimi Alx binary project
  *
  * @left: Pointer to the left child node
  * @right: Pointer to the right child node
