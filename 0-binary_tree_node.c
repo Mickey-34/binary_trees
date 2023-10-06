@@ -3,7 +3,7 @@
 #include <stddef.h>
 /**
  * binary_tree_node - Create a binary tree node
- * @mimi: root node of the tree
+ * @parent: root node of the tree
  *
  * @value: the figure in the root note
  * Return: binary tree or NULL on fail
